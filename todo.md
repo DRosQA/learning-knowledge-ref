@@ -19,4 +19,4 @@
 don't have a better place to hold these yet
 - Kobold Kolony: colony sim/idler? dragon that has to balance their power growth with the needs of their servants
 - Patronizing Telemetry: you're the algorithm that serves users content, find what they'd like based on data you have on them
-- Tall Tea Tales: tea shop? cafe? about serving the right item mix + gossip? Faeries and lies included? unclear
+- Spill teh Tea/Tall Tea Tales/Grapevine Teahouse: tea shop? cafe? about serving the right item mix + gossip? Faeries and lies included? unclear
