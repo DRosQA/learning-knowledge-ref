@@ -3,12 +3,10 @@
 - Fluentwait vs Explicitwait
 - Authentication vs Authorization
 - API contracts
-- encapsulation
 
 ## Things to research
 - automation framework development
 - API microservices
-- design patterns
 - pytest
 - Security vs Safety
 
@@ -16,3 +14,8 @@
 - Python Selenium codebase refactor
 - C# Selenium codebase
 - C# coding exercises
+
+## Game ideas
+don't have a better place to hold these yet
+- Kobold Kolony: colony sim/idler? dragon that has to balance their power growth with the needs of their servants
+- Patronizing Telemetry: you're the algorithm that serves users content, find what they'd like based on data you have on them
